@@ -66,7 +66,7 @@ Bu projede öğrendiklerim:
 
 ### 💻 Programlama
 <p>
-  <img src="https://skillicons.dev/icons?i=python,powershell,bash,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,powershell,bash" />
 </p>
 
 ### 🖥 Çalışma Ortamı
