@@ -100,8 +100,7 @@ Bu projede öğrendiklerim:
 # 📬 İletişim  
 📨 **znuz@yaani.com**
 
-Eğer projelerim hakkında tavsiyede bulunmak istersen ya da sohbet etmek istersen  
-her zaman ulaşabilirsin. 🙌
+Eğer projelerim hakkında tavsiyede bulunmak istersen ya da sohbet etmek istersen her zaman ulaşabilirsin. 🙌
 
 ---
 
