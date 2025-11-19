@@ -1,110 +1,101 @@
-<!-- HEADER - ANİMASYON + TYPING -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" />
+  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320px" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFC8&center=true&vCenter=true&width=600&lines=👋+Merhaba!+Ben+Znuzhg+Onyvxpv;Junior+Developer+%7C+IT+Student;Siber+Güvenlik+ve+WSL2+üzerine+çalışıyorum;Her+gün+bir+önceki+halimden+daha+iyi+olmaya+çalışıyorum.">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFC8&center=true&vCenter=true&width=650&lines=Znuzhg+Onyvxpv;Junior+Developer+%7C+IT+Student;Siber+Güvenlik+%26+Backend+Geliştirici;Kendimi+her+gün+bir+%C3%B6nceki+halimden+geli%C5%9Ftiriyorum.">
 </p>
 
 ---
 
 # 🧑‍💻 Hakkımda
 
-Ben Znuzhg Onyvxpv,  
-**Ağ Sistemleri ve Siber Güvenlik** alanında eğitim alan bir **junior developerım.**  
-Ağırlıklı olarak Linux, WSL2, otomasyon scriptleri ve Python üzerine çalışıyorum.
+Ben **Znuzhg Onyvxpv (Mahmut Balıkçı)**.  
+Ağ Sistemleri, WSL2, otomasyon scriptleri ve backend geliştirme konularına odaklanan  
+mütevazı bir **junior developerım.**
 
-Kendimi geliştirmek için farklı projeler üretmeye, hata çözmeyi öğrenmeye  
-ve sistemlerin nasıl çalıştığını daha derinden anlamaya odaklanıyorum.
+Çalışma amacım basit:  
+**Daha iyi sistemler kurmak, daha temiz kod yazmak ve kendimi her gün geliştirmek.**
 
-🧭 Şu anda odaklandığım alanlar:  
-- WSL2 internals & USB passthrough  
-- PowerShell & Bash script geliştirme  
-- Python ile otomasyon + CLI araçları  
-- Git/GitHub iş akışları  
-- Ağ teknolojileri & temel siber güvenlik  
-- Kernel modülleri üzerine giriş seviye çalışmalar
+📌 Şu an odaklandığım alanlar:
+- WSL2 internals & USB passthrough araştırmaları  
+- PowerShell ↔ Bash otomasyon  
+- Python CLI & backend geliştirme  
+- Linux – ağ teknolojileri – temel siber güvenlik  
+- Kernel modülleri üzerine giriş düzey analiz  
+- Production-grade API tasarımı
 
 ---
 
-# 🛠 Yaptığım Çalışmalar (Gerçek Projelerim)
+# 🛠 Gerçek Projelerim
 
-## 🔌 **RTL8821CU FixSuite (v1.0.1)**  
-**WSL2 üzerinde RTL8821CU USB Wi-Fi adaptörünü otomatik bağlayan ve DKMS ile kuran**  
-tam otomatik sürücü çözümü.
+## 🔥 **Flask Super CRUD API (Production-Grade Backend)**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,mysql,docker,redis" />
+</p>
 
-Bu projeyi geliştirirken öğrendiklerim:  
-✔ usbipd-win 5.3+ sözdizimi  
-✔ WSL2 kernel yapısı  
-✔ DKMS build flow (add → build → install)  
-✔ Kernel source fallback hazırlama  
-✔ PowerShell ↔ Bash çift taraflı otomasyon  
-✔ JSON log analizi & hata yakalama  
-✔ Tam idempotent (yeniden çalıştırılabilir) script tasarımı  
+**JWT • RBAC • Redis Cache • MySQL • RQ Jobs • Docker • CI • OpenAPI 3**  
+Tamamen modern backend mimarisi üzerine kurduğum, profesyonel API tasarım pratiğim.
+
+🔗 Repo: https://github.com/znuzhg/flask-super-crud-api
+
+---
+
+## 🔌 **RTL8821CU FixSuite**
+WSL2 üzerinde RTL8821CU Wi-Fi adaptörünü otomatik bağlayan gelişmiş otomasyon aracı.
+
+Öğrendiklerim:
+- usbipd-win 5.3+  
+- WSL2 kernel çalışma mantığı  
+- DKMS build pipeline  
+- Tam idempotent script yazma  
+- JSON loglama ve hata analiz akışı  
 
 🔗 Repo: https://github.com/znuzhg/RTL8821CU_FixSuite
 
 ---
 
-## 🧮 **Python Hesap Makinesi Projesi – (Konsol → Modüler Kod → GUI → EXE)**  
-Çok aşamalı bir geliştirme projesi.  
-Temel Python ile başlayıp GUI (Tkinter) ve EXE oluşturma aşamasına kadar ilerledi.
-
-Bu projede öğrendiklerim:  
-✔ Modüler Python kod mimarisi  
-✔ Fonksiyon yönetimi  
-✔ GUI tasarımı  
-✔ PyInstaller EXE oluşturma  
-✔ Kod temizliği + error handling  
+## 🧮 Python Hesap Makinesi (GUI → EXE)
+Basitten gelişmişe ilerleyen çok aşamalı Python eğitim projem.
 
 🔗 Repo: https://github.com/znuzhg/Hesap-Makinesi
 
 ---
 
-<p> <img src="https://skillicons.dev/icons?i=python,flask,mysql,docker,redis" /> </p>
+# ⭐ Öne Çıkan Projeler
 
-Tamamen production-grade mimariye sahip, profesyonel seviyede bir Flask backend geliştirdim.
-Bu proje; JWT, RBAC, SQLAlchemy, Redis caching, Docker, CI ve temiz katmanlı mimariye sahip güçlü bir API iskeletidir.
-
-🔥 Özellikler
-
-✔ JWT Authentication (Access/Refresh + Rotation)
-✔ RBAC (admin/user)
-✔ User CRUD (ETag / If-Match destekli)
-✔ Redis Cache
-✔ SQLAlchemy ORM
-✔ Docker + Gunicorn Deployment
-✔ OpenAPI 3 dokümantasyonu
-✔ RQ ile background jobs
-✔ Tam bir pytest test suite
-✔ Python SDK (Client)
-
-Bu proje şu an benim en modern backend çalışmalarım arasında yer alıyor ve sürekli geliştiriyorum.
-
-🔗 Repo: https://github.com/znuzhg/flask-super-crud-api
-
----
-# ⚙️ Kullandığım ve Öğrendiğim Teknolojiler
-
-### 💻 Programlama
-<p>
-  <img src="https://skillicons.dev/icons?i=python,powershell,bash" />
-</p>
-
-### 🖥 Çalışma Ortamı
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,kali,ubuntu,debian,vscode,pycharm" />
-</p>
-
-### 🔐 IT & Güvenlik
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github" />
+<p align="center">
+  <a href="https://github.com/znuzhg/flask-super-crud-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=znuzhg&repo=flask-super-crud-api&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/znuzhg/RTL8821CU_FixSuite">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=znuzhg&repo=RTL8821CU_FixSuite&theme=tokyonight" />
+  </a>
 </p>
 
 ---
 
-# 📊 GitHub İstatistikleri
+# ⚙️ Kullandığım Teknolojiler
+
+### 🔧 Backend & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,docker,redis,mysql,linux" />
+</p>
+
+### 🧩 Sistem & Otomasyon
+<p>
+  <img src="https://skillicons.dev/icons?i=powershell,bash,git,github" />
+</p>
+
+### 🧠 IDE & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm" />
+</p>
+
+---
+
+# 🏆 İstatistikler
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=znuzhg&show_icons=true&theme=tokyonight" height="165" />
@@ -120,15 +111,12 @@ Bu proje şu an benim en modern backend çalışmalarım arasında yer alıyor v
 
 ---
 
-# 📬 İletişim  
-📨 **znuz@yaani.com**
-
-Eğer projelerim hakkında tavsiyede bulunmak istersen ya da sohbet etmek istersen her zaman ulaşabilirsin. 🙌
-
----
+# 📬 İletişim
+📧 **Email:** znuz@yaani.com  
+GitHub üzerinden veya mail yoluyla her zaman yazabilirsin.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=znuzhg&color=blueviolet&style=for-the-badge" />
 </p>
 
-<p align="center">✨ Öğrenmeye, üretmeye ve kendimi geliştirmeye devam ediyorum. ✨</p>
+<p align="center">✨ “Mütevazı ilerleyiş, güçlü bir geleceğin temelidir.” ✨</p>
