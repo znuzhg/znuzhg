@@ -62,6 +62,29 @@ Bu projede öğrendiklerim:
 
 ---
 
+<p> <img src="https://skillicons.dev/icons?i=python,flask,mysql,docker,redis" /> </p>
+
+Tamamen production-grade mimariye sahip, profesyonel seviyede bir Flask backend geliştirdim.
+Bu proje; JWT, RBAC, SQLAlchemy, Redis caching, Docker, CI ve temiz katmanlı mimariye sahip güçlü bir API iskeletidir.
+
+🔥 Özellikler
+
+✔ JWT Authentication (Access/Refresh + Rotation)
+✔ RBAC (admin/user)
+✔ User CRUD (ETag / If-Match destekli)
+✔ Redis Cache
+✔ SQLAlchemy ORM
+✔ Docker + Gunicorn Deployment
+✔ OpenAPI 3 dokümantasyonu
+✔ RQ ile background jobs
+✔ Tam bir pytest test suite
+✔ Python SDK (Client)
+
+Bu proje şu an benim en modern backend çalışmalarım arasında yer alıyor ve sürekli geliştiriyorum.
+
+🔗 Repo: https://github.com/znuzhg/flask-super-crud-api
+
+---
 # ⚙️ Kullandığım ve Öğrendiğim Teknolojiler
 
 ### 💻 Programlama
