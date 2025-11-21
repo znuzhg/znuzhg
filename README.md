@@ -63,8 +63,7 @@ Ağ Sistemleri, Siber Güvenlik, WSL2, otomasyon scriptleri ve backend geliştir
 
 # 🏆 GitHub Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/api?username=znuzhg&theme=tokyonight&no-frame=true&no-bg=true
-" />
+  <img src="https://github-profile-trophy.vercel.app/?username=znuzhg&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true" />
 </p>
 
 ---
