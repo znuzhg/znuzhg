@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFC8&center=true&vCenter=true&width=650&lines=Znuzhg+Onyvxpv;Junior+Developer+%7C+IT+Student;Siber+Güvenlik+%26+Backend+Geliştirici;Kendimi+her+gün+bir+%C3%B6nceki+halimden+geli%C5%9Ftiriyorum.">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFC8&center=true&vCenter=true&width=650&lines=Znuzhg+Onyvxpv;Junior+Developer+%7C+IT+Student;Siber+G%C3%BCvenlik+%26+Backend+Geli%C5%9Ftirici;Kendimi+her+g%C3%BCn+bir+%C3%B6nceki+halimden+geli%C5%9Ftiriyorum.">
 </p>
 
 ---
@@ -12,67 +12,24 @@
 # 🧑‍💻 Hakkımda
 
 Ben **Znuzhg Onyvxpv (Mahmut Balıkçı)**.  
-Ağ Sistemleri, WSL2, otomasyon scriptleri ve backend geliştirme konularına odaklanan  
-mütevazı bir **junior developerım.**
+Ağ Sistemleri, Siber Güvenlik, WSL2, otomasyon scriptleri ve backend geliştirme konularına odaklanan mütevazı bir **junior developerım.**
 
-Çalışma amacım basit:  
-**Daha iyi sistemler kurmak, daha temiz kod yazmak ve kendimi her gün geliştirmek.**
+**Kodlarım sessiz olabilir, ama gelecekte sesleri benden daha gür çıkacak.**
 
-📌 Şu an odaklandığım alanlar:
+---
+
+## 🎯 Şu an Odaklandığım Konular
+
 - WSL2 internals & USB passthrough araştırmaları  
 - PowerShell ↔ Bash otomasyon  
 - Python CLI & backend geliştirme  
 - Linux – ağ teknolojileri – temel siber güvenlik  
 - Kernel modülleri üzerine giriş düzey analiz  
-- Production-grade API tasarımı
-
----
-
-# 🛠 Gerçek Projelerim
-
-## 🔥 **Flask Super CRUD API (Production-Grade Backend)**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,flask,mysql,docker,redis" />
-</p>
-
-**JWT • RBAC • Redis Cache • MySQL • RQ Jobs • Docker • CI • OpenAPI 3**  
-Tamamen modern backend mimarisi üzerine kurduğum, profesyonel API tasarım pratiğim.
-
-🔗 Repo: https://github.com/znuzhg/flask-super-crud-api
-
----
-
-## 🔌 **RTL8821CU FixSuite**
-WSL2 üzerinde RTL8821CU Wi-Fi adaptörünü otomatik bağlayan gelişmiş otomasyon aracı.
-
-Öğrendiklerim:
-- usbipd-win 5.3+  
-- WSL2 kernel çalışma mantığı  
-- DKMS build pipeline  
-- Tam idempotent script yazma  
-- JSON loglama ve hata analiz akışı  
-
-🔗 Repo: https://github.com/znuzhg/RTL8821CU_FixSuite
-
----
-
-## 🧮 Python Hesap Makinesi (GUI → EXE)
-Basitten gelişmişe ilerleyen çok aşamalı Python eğitim projem.
-
-🔗 Repo: https://github.com/znuzhg/Hesap-Makinesi
-
----
-
-# ⭐ Öne Çıkan Projeler
-
-<p align="center">
-  <a href="https://github.com/znuzhg/flask-super-crud-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=znuzhg&repo=flask-super-crud-api&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/znuzhg/RTL8821CU_FixSuite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=znuzhg&repo=RTL8821CU_FixSuite&theme=tokyonight" />
-  </a>
-</p>
+- Production-grade API tasarımı  
+- Kod kalitesi, modüler mimari ve otomasyon odaklı geliştirme  
+- CLI araçları & sistem otomasyon araçları geliştirme  
+- **SQL, veritabanı tasarımı, index yapıları ve sorgu optimizasyonu**  
+- **Backend ↔ Database etkileşim modelleri (ORM, raw SQL, schema design)**  
 
 ---
 
@@ -112,6 +69,7 @@ Basitten gelişmişe ilerleyen çok aşamalı Python eğitim projem.
 ---
 
 # 📬 İletişim
+
 📧 **Email:** znuz@yaani.com  
 GitHub üzerinden veya mail yoluyla her zaman yazabilirsin.
 
