@@ -61,13 +61,6 @@ Ağ Sistemleri, Siber Güvenlik, WSL2, otomasyon scriptleri ve backend geliştir
 
 ---
 
-# 🏆 GitHub Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=znuzhg&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true" />
-</p>
-
----
-
 # 📬 İletişim
 
 📧 **Email:** znuz@yaani.com  
