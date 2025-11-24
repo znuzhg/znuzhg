@@ -91,6 +91,22 @@ I study real-world attack techniques, network behavior, Linux internals, WSL2, w
 
 ---
 
+# 🧩 En Çok Kullandığım Diller / Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=znuzhg&theme=radical&layout=compact&langs_count=8" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=znuzhg&theme=radical" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,js,linux,mysql,html,css" />
+</p>
+
+---
+
 # 📊 Red Team Stats (GitHub)
 
 <p align="center">
