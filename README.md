@@ -14,7 +14,7 @@
 **TR 🇹🇷**
 
 Ben **Znuzhg Onyvxpv (Mahmut Balıkçı).**  
-Kendini geliştirme sürecinde olan, “developer değilim ama öğreniyorum” diyen bir **Pentest & Red Team meraklısıyım**.  
+Kendini geliştirme sürecinde olan, “developer olma yolunda ilerleyen”  bir **Pentest & Red Team meraklısıyım**.  
 Gerçek dünyada kullanılan teknikleri öğreniyor, saldırı yüzeylerini araştırıyor ve otomasyon scriptleri geliştiriyorum.
 
 > **“Ben bir uzman değilim. Ama her gün bir öncekinden daha tehlikeliyim.”**
@@ -24,7 +24,7 @@ Gerçek dünyada kullanılan teknikleri öğreniyor, saldırı yüzeylerini ara�
 **EN 🇬🇧**
 
 I'm **Znuzhg Onyvxpv**,  
-not a full developer — but a learner walking the Red-Team path.  
+“I’m someone who is constantly improving myself — a Pentest & Red Team enthusiast progressing on the path to becoming a developer.”  
 I study real-world attack techniques, network behavior, Linux internals, WSL2, wireless security, and build tools to automate what I learn.
 
 > **“I’m not perfect. I’m evolving.”**
