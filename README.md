@@ -1,129 +1,90 @@
-<!-- RED TEAM HEADER -->
-<p align="center">
-  <img src="https://media.tenor.com/2fCzR5NCzFsAAAAC/hacker.gif" width="340px" />
-</p>
+💀 ZNUZHG ONYVXPV
+Pentest Learner • Red Team Apprentice • Developer in Progress
+<p align="center"> <img src="https://media.tenor.com/2fCzR5NCzFsAAAAC/hacker.gif" width="320px" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=C90000&center=true&vCenter=true&width=600&lines=Learning+every+day.;Breaking+to+understand.;Building+to+improve." /> </p>
+👤 Hakkımda / About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&width=700&lines=ZNUZHG+ONYVXPV;Red+Team+Learner+%7C+Pentest+Apprentice;WSL2+%7C+Linux+%7C+Network+Security;Learning+Hard.+Breaking+Silently.">
-</p>
+TR 🇹🇷
 
----
+Ben Mahmut Balıkçı (ZNUZHG) — siber güvenlik alanında kendini geliştiren,
+Pentest & Red Team dünyasına ilgi duyan bir öğrenciyim.
+Hedefim; öğrendiklerimi otomasyon araçlarıyla güçlendirmek,
+ağ güvenliği ve web zafiyetleri üzerine derinleşmek.
 
-# 🩸 Kimim Ben?
+“Uzman değilim. Ama her gün bir adım ileri gidiyorum.”
 
-**TR 🇹🇷**
+EN 🇬🇧
 
-Ben **Znuzhg Onyvxpv (Mahmut Balıkçı).**  
-Kendini geliştirme sürecinde olan, “developer olma yolunda ilerleyen”  bir **Pentest & Red Team meraklısıyım**.  
-Gerçek dünyada kullanılan teknikleri öğreniyor, saldırı yüzeylerini araştırıyor ve otomasyon scriptleri geliştiriyorum.
+I'm Mahmut Balıkçı (ZNUZHG) — a learner in cybersecurity,
+focused on Pentesting, Red Team methodologies, Linux internals and automation.
+I study real attack surfaces and build my own tools to understand them better.
 
-> **“Ben bir uzman değilim. Ama her gün bir öncekinden daha tehlikeliyim.”**
+“I’m not perfect. I’m progressing.”
 
----
+🎯 Odak Alanlarım / Focus Areas
+TR 🇹🇷
 
-**EN 🇬🇧**
+Aktif & pasif bilgi toplama (recon)
 
-I'm **Znuzhg Onyvxpv**,  
-“I’m someone who is constantly improving myself — a Pentest & Red Team enthusiast progressing on the path to becoming a developer.”  
-I study real-world attack techniques, network behavior, Linux internals, WSL2, wireless security, and build tools to automate what I learn.
+Ağ & Linux güvenliği
 
-> **“I’m not perfect. I’m evolving.”**
+Web zafiyetleri: SQLi, XSS, auth bypass
 
----
+OSINT yöntemleri
 
-# 🎯 Pentest & Red Team Focus
+Python / Bash otomasyon
 
-### 🛠️ Araştırdığım / Öğrendiğim Konular (TR)
-- Aktif & pasif bilgi toplama (recon)  
-- Zafiyet analizi ve saldırı yüzeyi keşfi  
-- Linux ağ güvenliği, WSL2 internals  
-- Wireless security (monitor mode, handshake, WPS)  
-- Basit exploitation flow’ları  
-- OSINT, footprinting, user enumeration  
-- Web güvenlik testleri (SQLi, XSS, auth bypass)  
-- Python / Bash ile pentest otomasyonu  
+Wireless security (WPA2, monitor mode, handshake)
 
-### 🔥 What I’m Learning (EN)
-- Recon & enumeration workflows  
-- Attack surface mapping & fingerprinting  
-- Linux / WSL2 internals  
-- Wireless testing (WPA2, handshake capture, WPS research)  
-- Basic exploitation paths  
-- OSINT methodologies  
-- Web vulnerabilities (SQLi, XSS, misconfig)  
-- Automation via Python/Bash
+WSL2 + Wi-Fi adapter debugging
 
----
+EN 🇬🇧
 
-# 🧰 Teknik Araç Çantam / Tech Arsenal
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,git,docker" />
-</p>
+Recon & enumeration
 
-- Nmap, FFUF, Nikto, Burp Suite  
-- Aircrack-ng / Wifite / Airodump-ng  
-- SQLMap, Dirsearch, Hydra  
-- Instaloader & OSINT toolkits  
-- Custom Python + Bash scripts  
-- WSL2 → USB passthrough & Wi-Fi driver debugging  
+Linux / network security
 
----
+Web vulnerabilities (SQLi, XSS, misconfigurations)
 
-# 🔧 Aktif Olarak Üzerinde Çalıştıklarım
+OSINT methodologies
 
-## TR 🇹🇷
-- Daha iyi bir pentest workflow’u oluşturmak  
-- Kendi OSINT ve enumeration scriptlerimi yazmak  
-- WSL2 + Wi-Fi kartları + monitor mode stabilizasyonu  
-- Web uygulama zafiyetleri (özellikle SQL Injection)  
-- Ağ trafiği analizi (tcpdump, Wireshark)  
-- Kablosuz ağ güvenliği üzerine pratikler  
-- Günlük Linux & networking deneyimi kazanmak  
+Python / Bash automation
 
-## EN 🇬🇧
-- Building my personal pentest workflow  
-- Writing my own OSINT & enumeration tools  
-- Stabilizing WSL2 + USB Wi-Fi in monitor mode  
-- Understanding web vulnerabilities deeply  
-- Practicing network traffic analysis  
-- Improving wireless security methodology  
-- Daily Linux & networking practice  
+Wireless security experiments
 
----
+WSL2 internals & driver debugging
 
-# 🧩 En Çok Kullandığım Diller / Most Used Languages
+🧰 Tech Arsenal
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,git,docker" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=znuzhg&theme=radical&layout=compact&langs_count=8" height="180" />
-</p>
+Nmap, FFUF, Burp Suite
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=znuzhg&theme=radical" height="180" />
-</p>
+Aircrack-ng / Wifite
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,js,linux,mysql,html,css" />
-</p>
+SQLMap, Hydra
 
----
+Wireshark, tcpdump
 
-# 📊 Red Team Stats (GitHub)
+Custom Python & Bash tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=znuzhg&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=znuzhg&layout=compact&theme=radical" height="165" />
-</p>
+🔧 Şu An Üzerinde Çalıştıklarım
 
----
+Kişisel pentest workflow oluşturmak
 
-# 📡 İletişim
+OSINT + reconnaissance scriptleri yazmak
 
-📧 **Email:** znuz@yaani.com  
-📍 Konum: Türkiye  
-🔎 Merak ettiğin her konuda yazabilirsin. Öğrenirken yalnız yürümek yok.
+Wireless security pratikleri
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=znuzhg&color=red&style=for-the-badge" />
-</p>
+Web uygulama güvenliği üzerine yoğunlaşmak
 
-<p align="center"><b>“Offensive mindset. Discipline. Growth.”</b></p>
+WSL2 + USB Wi-Fi kararlılığı araştırmaları
+
+📊 GitHub Aktiviteleri
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=znuzhg&show_icons=true&theme=radical" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=znuzhg&layout=compact&theme=radical" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=znuzhg&theme=radical" height="180" /> </p>
+📡 İletişim
+
+📧 E-mail: znuz@yaani.com
+
+📍 Türkiye
+💬 Learning journey, projects, cybersecurity — feel free to reach out.
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=znuzhg&color=red&style=for-the-badge" /> </p> <p align="center"><b>“Quiet progress. Steady discipline. Real growth.”</b></p>
